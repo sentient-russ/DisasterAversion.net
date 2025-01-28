@@ -604,9 +604,10 @@ C:\Users\russe\source\repos\adad\obj\Debug\net7.0\staticwebassets.development.js
 C:\Users\russe\source\repos\adad\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
 C:\Users\russe\source\repos\adad\obj\Debug\net7.0\scopedcss\bundle\adad.styles.css
 C:\Users\russe\source\repos\adad\obj\Debug\net7.0\scopedcss\projectbundle\adad.bundle.scp.css
-C:\Users\russe\source\repos\adad\obj\Debug\net7.0\adad.csproj.CopyComplete
 C:\Users\russe\source\repos\adad\obj\Debug\net7.0\adad.dll
 C:\Users\russe\source\repos\adad\obj\Debug\net7.0\refint\adad.dll
 C:\Users\russe\source\repos\adad\obj\Debug\net7.0\adad.pdb
 C:\Users\russe\source\repos\adad\obj\Debug\net7.0\adad.genruntimeconfig.cache
 C:\Users\russe\source\repos\adad\obj\Debug\net7.0\ref\adad.dll
+C:\Users\russe\source\repos\adad\obj\Debug\net7.0\adad.sourcelink.json
+C:\Users\russe\source\repos\adad\obj\Debug\net7.0\adad.csproj.Up2Date

@@ -1,0 +1,28 @@
+[
+  {
+    "ContainingType": "adad.Services.AccuweatherAPI",
+    "Method": "GetLatLong",
+    "RelativePath": "AccuweatherAPI",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "SiteModelIn",
+        "Type": "adad.Models.SiteModel",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "adad.Models.SiteModel",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  }
+]

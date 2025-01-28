@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "m+FIe/ssQrBM7Ox1iOvBAOoqEYQmfUWYIWijmbmVRuY0rqlkfwTaT9rfNHZMgv/4lpjK50SivAS24u8AxW87zw==",
+  "dgSpecHash": "zSWV+TS4BOo=",
   "success": true,
   "projectFilePath": "C:\\Users\\russe\\source\\repos\\adad\\adad.csproj",
   "expectedPackageFiles": [
@@ -293,7 +293,7 @@
     "C:\\Users\\russe\\.nuget\\packages\\system.xml.readerwriter\\4.3.0\\system.xml.readerwriter.4.3.0.nupkg.sha512",
     "C:\\Users\\russe\\.nuget\\packages\\system.xml.xdocument\\4.3.0\\system.xml.xdocument.4.3.0.nupkg.sha512",
     "C:\\Users\\russe\\.nuget\\packages\\zstdsharp.port\\0.7.1\\zstdsharp.port.0.7.1.nupkg.sha512",
-    "C:\\Users\\russe\\.nuget\\packages\\microsoft.netcore.app.host.linux-x64\\7.0.13\\microsoft.netcore.app.host.linux-x64.7.0.13.nupkg.sha512"
+    "C:\\Users\\russe\\.nuget\\packages\\microsoft.netcore.app.host.linux-x64\\7.0.20\\microsoft.netcore.app.host.linux-x64.7.0.20.nupkg.sha512"
   ],
   "logs": [
     {

@@ -230,9 +230,86 @@ dialog {
 .btn-align-left {
 
 }
-@media (min-width: 800px) {
+.mpop-container{
+    display: flex;
+    flex-direction:row;
+    transform: translateX(-52.5px);
+}
+.mpop-col1{
+    max-width: 150px;
+    min-width: 150px;
+    text-align: end;
+    font-weight:500;
+}
+.mpop-col2{
+    padding-left: 10px;
+}
+
+.to-top {
+    position: fixed;
+    bottom: 2rem;
+    right: 2rem;
+    height: 30px;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #5b7eb1e6;
+    border-radius: .25rem;
+    padding: .5rem;
+    text-decoration: none;
+    transition: 0.2s ease-out;
+    opacity: .99;
+    border: 1px solid;
+    border-color: #333;
+}
+    .to-top span {
+        opacity: 1;
+        color: white;
+    }
+
+.login-info-heading {
+    font-size: clamp(1rem, 1.5rem, 1.5rem);
+    color: #5b7eb1e6;
+    margin-top: 25px;
+    margin-bottom: 5px;
+    text-align: left;
+    margin-left: 10%;
+}
+.login-info-field {
+    color: #5b7eb1e6;
+}
+.login-info-p {
+    font-size: clamp(1rem, 1rem, 2rem);
+    margin-left: 15%;
+    margin-bottom: 5px;
+    text-align: left;
+}
+
+.login-info-p {
+    font-size: clamp(1rem, 1rem, 2rem);
+}
+
+.features-heading {
+    font-size: clamp(1rem, 1.5rem, 2rem);
+    color: #5b7eb1e6;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+.features-list {
+    display: flex;
+    flex-direction:column;
+    margin-left: 10%;
+    margin-right: 10%;
+    text-align: left;
+}
+@media (max-width: 800px) {
     html {
         font-size: 16px;
+    }
+    .to-top {
+        right: 35%;
+        left: 35%;
+        width: 30%;
     }
 }
 @media(max-width: 700px) {
@@ -242,5 +319,19 @@ dialog {
     dialog {
         max-width: 95%;
         min-height: 98%;
+    }
+    .to-top {
+        right: 35%;
+        left: 35%;
+        width: 30%;
+    }
+}
+@media(max-width: 500px) {
+    .features-list {
+        margin-left: 5%;
+        margin-right: 5%;
+    }
+    .login-info-heading {
+        margin-left: 5%;
     }
 }

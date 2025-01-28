@@ -258,7 +258,6 @@ C:\Users\russe\source\repos\adad\obj\Release\net7.0\linux-x64\staticwebassets.de
 C:\Users\russe\source\repos\adad\obj\Release\net7.0\linux-x64\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
 C:\Users\russe\source\repos\adad\obj\Release\net7.0\linux-x64\scopedcss\bundle\adad.styles.css
 C:\Users\russe\source\repos\adad\obj\Release\net7.0\linux-x64\scopedcss\projectbundle\adad.bundle.scp.css
-C:\Users\russe\source\repos\adad\obj\Release\net7.0\linux-x64\adad.csproj.CopyComplete
 C:\Users\russe\source\repos\adad\obj\Release\net7.0\linux-x64\adad.dll
 C:\Users\russe\source\repos\adad\obj\Release\net7.0\linux-x64\refint\adad.dll
 C:\Users\russe\source\repos\adad\obj\Release\net7.0\linux-x64\adad.pdb
@@ -284,3 +283,5 @@ C:\Users\russe\source\repos\adad\bin\Release\net7.0\linux-x64\Owin.dll
 C:\Users\russe\source\repos\adad\bin\Release\net7.0\linux-x64\System.IO.Pipelines.dll
 C:\Users\russe\source\repos\adad\bin\Release\net7.0\linux-x64\System.Text.Encodings.Web.dll
 C:\Users\russe\source\repos\adad\bin\Release\net7.0\linux-x64\System.Text.Json.dll
+C:\Users\russe\source\repos\adad\obj\Release\net7.0\linux-x64\adad.sourcelink.json
+C:\Users\russe\source\repos\adad\obj\Release\net7.0\linux-x64\adad.csproj.Up2Date
